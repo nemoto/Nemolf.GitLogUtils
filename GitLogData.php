@@ -1,5 +1,5 @@
 <?php
-namespace Vender\Nemolf\GitLogUtils;
+namespace vendor\Nemolf\GitLogUtils;
 
 /**
  * GitLogData
