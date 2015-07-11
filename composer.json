@@ -1,29 +1,6 @@
 {
     "name": "nemolf/gitLogUtils",
-    "type": "library",
-    "description": "simple git log parser",
-    "keyword" : [
-        "git",
-        "log"
-    ],
-    "license": "BSD-2-Clause",
-    "authors": [
-        {
-            "name": "gitlogutils author"
-        }
-    ],
     "require": {
-        "php": ">=5.3.0",
         "aura/autoload": "*"
-    },
-    "autoload": {
-        "psr-4": {
-            "Nemolf\\GitLogUtils\\": "src/"
-        }
-    },
-    "extra": {
-        "nemolf": {
-            "type": "library"
-        }
     }
 }
