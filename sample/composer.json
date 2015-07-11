@@ -1,0 +1,12 @@
+{
+    "repositories": [
+        {
+            "url": "https://github.com/nemoto/Nemolf.GitLogUtils.git",
+            "type": "git",
+            "reference":"master"
+        }
+    ],
+    "require": {
+        "nemolf/gitlogutils":"*@dev"
+    }
+}
