@@ -1,5 +1,5 @@
 {
-    "name": "nemolf/gitLogUtils",
+    "name": "nemolf/gitlogutils",
     "require": {
         "aura/autoload": "*"
     }
